@@ -1,0 +1,7 @@
+- Bahasa Inggris
+  * Memperbaiki Grammar
+  * Menambah Kosa-Kata
+  
+- Memperbaiki Sholat
+  * Sholat Tahajud
+  * Sholat Dhuha
