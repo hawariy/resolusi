@@ -13,3 +13,4 @@
 - Usaha Lainnya
 * Banyak baca buku
 * Berdoa
+* Mencari Link atau teman yang mengerti web-development
