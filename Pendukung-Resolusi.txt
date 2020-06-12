@@ -8,4 +8,7 @@
   * Sholat Subuh
 
 - Sedekah
+ * Infaq
+ 
 - Usaha Lainnya
+ * Mencari Link atau teman yang mengerti web-development
